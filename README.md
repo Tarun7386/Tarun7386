@@ -94,7 +94,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Tarun7386&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=1&column=7" />
 </div>
 
-## 🔥 Featured Projects
+<!--## 🔥 Featured Projects
 
 <table>
 <tr>
@@ -149,7 +149,7 @@ A modern fashion gallery web application built using Next.js and TypeScript. The
 
 </td>
 </tr>
-</table>
+</table> -->
 
 
 ## 📈 Contribution Activity
